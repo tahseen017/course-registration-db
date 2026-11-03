@@ -1,0 +1,3 @@
+# Project 4 dependencies (pinned)
+Faker==40.44.0        # synthetic names/emails for seed_data.py
+matplotlib==3.10.9    # only needed to regenerate erd.png (make_erd.py)
